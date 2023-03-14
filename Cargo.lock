@@ -243,6 +243,7 @@ dependencies = [
 name = "lox_core"
 version = "0.1.0"
 dependencies = [
+ "nom",
  "num",
  "proptest",
  "rstest",
